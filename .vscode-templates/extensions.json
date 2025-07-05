@@ -1,0 +1,88 @@
+{
+  "recommendations": [
+    // Essential Extensions
+    "dbaeumer.vscode-eslint", // ESLint
+    "esbenp.prettier-vscode", // Prettier
+    "pkief.material-icon-theme", // Material Icon Theme
+    "github.github-vscode-theme", // GitHub Theme
+    "eamodio.gitlens", // GitLens
+    "christian-kohler.path-intellisense", // Path Intellisense
+    "aaron-bond.better-comments", // Better Comments
+    "streetsidesoftware.code-spell-checker", // Code Spell Checker
+    
+    // JavaScript/TypeScript
+    "wix.vscode-import-cost", // Import Cost
+    "ms-vscode.vscode-typescript-next", // TypeScript Nightly
+    "formulahendry.auto-rename-tag", // Auto Rename Tag
+    "formulahendry.auto-close-tag", // Auto Close Tag
+    "mgmcdermott.vscode-language-babel", // Babel JavaScript
+    "orta.vscode-jest", // Jest
+    
+    // React/Vue/Angular
+    "dsznajder.es7-react-js-snippets", // ES7+ React/Redux/React-Native snippets
+    "vue.volar", // Vue Language Features
+    "angular.ng-template", // Angular Language Service
+    
+    // Python
+    "ms-python.python", // Python
+    "ms-python.vscode-pylance", // Pylance
+    "ms-toolsai.jupyter", // Jupyter
+    
+    // Java
+    "vscjava.vscode-java-pack", // Java Extension Pack
+    "redhat.java", // Language Support for Java
+    
+    // Go
+    "golang.go", // Go
+    
+    // Ruby
+    "rebornix.ruby", // Ruby
+    
+    // PHP
+    "bmewburn.vscode-intelephense-client", // PHP Intelephense
+    
+    // C#/.NET
+    "ms-dotnettools.csharp", // C#
+    
+    // Rust
+    "rust-lang.rust-analyzer", // Rust Analyzer
+    
+    // HTML/CSS
+    "ritwickdey.liveserver", // Live Server
+    "ecmel.vscode-html-css", // HTML CSS Support
+    "zignd.html-css-class-completion", // IntelliSense for CSS class names
+    
+    // Markdown
+    "yzhang.markdown-all-in-one", // Markdown All in One
+    "bierner.markdown-preview-github-styles", // Markdown Preview GitHub Styling
+    
+    // Docker/Kubernetes
+    "ms-azuretools.vscode-docker", // Docker
+    "ms-kubernetes-tools.vscode-kubernetes-tools", // Kubernetes
+    
+    // Database
+    "cweijan.vscode-mysql-client2", // MySQL/MariaDB Client
+    "mtxr.sqltools", // SQLTools
+    
+    // API Development
+    "humao.rest-client", // REST Client
+    "42crunch.vscode-openapi", // OpenAPI
+    
+    // Remote Development
+    "ms-vscode-remote.vscode-remote-extensionpack", // Remote Development
+    
+    // Productivity
+    "vscode-icons-team.vscode-icons", // VSCode Icons
+    "usernamehw.errorlens", // Error Lens
+    "wmaurer.change-case", // Change Case
+    "naumovs.color-highlight", // Color Highlight
+    "oderwat.indent-rainbow", // Indent Rainbow
+    "shardulm94.trailing-spaces", // Trailing Spaces
+    "gruntfuggly.todo-tree", // Todo Tree
+    
+    // Themes
+    "zhuangtongfa.material-theme", // One Dark Pro
+    "wesbos.theme-cobalt2", // Cobalt2 Theme
+    "dracula-theme.theme-dracula" // Dracula
+  ]
+}

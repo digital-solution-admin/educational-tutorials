@@ -4,7 +4,7 @@ Welcome to my educational tutorial repository! This project aims to share knowle
 
 ## About This Project
 
-This repository contains tutorials, guides, and educational content on various topics related to technology, programming, and software development.
+This repository contains tutorials, guides, ready-to-use templates, and other resources for technology, programming, and software development.
 
 ## Table of Contents
 
@@ -37,6 +37,31 @@ Browse through the tutorials folder to find topics that interest you. Each tutor
 - Microservices Architecture
 - Cloud Deployment Strategies
 - Performance Optimization Techniques
+
+## Developer Resources
+
+This repository includes several ready-to-use resources for developers:
+
+### [Gitignore Templates](./gitignore-templates)
+
+Collection of `.gitignore` templates for various programming languages and frameworks:
+- [Node.js](./gitignore-templates/node.gitignore)  
+- [Python](./gitignore-templates/python.gitignore)
+- [Java](./gitignore-templates/java.gitignore)
+
+### [VS Code Configuration Templates](./.vscode-templates)
+
+Optimized VS Code settings and configurations:
+- [settings.json](./.vscode-templates/settings.json) - Optimized editor settings
+- [extensions.json](./.vscode-templates/extensions.json) - Recommended extensions
+- [launch.json](./.vscode-templates/launch.json) - Debug configurations
+
+### [GitHub Actions Workflows](./.github/workflow-templates)
+
+Ready-to-use CI/CD workflow templates:
+- [Node.js CI](./.github/workflow-templates/nodejs-ci.yml) - For JavaScript/Node.js projects
+- [Python CI](./.github/workflow-templates/python-ci.yml) - For Python projects
+- [Docker Build and Push](./.github/workflow-templates/docker-build-push.yml) - For containerized applications
 
 ## Contributing
 
