@@ -24,13 +24,19 @@ Browse through the tutorials folder to find topics that interest you. Each tutor
 
 ## Tutorials
 
-*Coming soon! I'll be adding tutorials on various topics, including:*
+### Available Tutorials
 
-- Programming fundamentals
-- Web development
-- Data science basics
-- Software tools and productivity
-- Best practices in software development
+- [Getting Started with Git](tutorials/getting-started-with-git.md) - A complete guide to using Git for version control
+- [Modern JavaScript Best Practices](tutorials/modern-javascript-best-practices.md) - Write clean, efficient, and maintainable JavaScript code
+- [Docker Fundamentals: A Practical Guide](tutorials/docker-fundamentals-guide.md) - Learn containerization with practical examples
+
+### Coming Soon
+
+- RESTful API Design Principles
+- CI/CD Pipeline Setup
+- Microservices Architecture
+- Cloud Deployment Strategies
+- Performance Optimization Techniques
 
 ## Contributing
 
